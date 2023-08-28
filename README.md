@@ -13,8 +13,6 @@ Pass form steps as React components array with "title" attribute, and they will 
 
 Some components created with CSS-in-JS styled-components library at "src\components\styles"
 
-To change theme, for example primary or contrast color, modify "theme.ts" file at "src\components\styles\theme.ts"
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
